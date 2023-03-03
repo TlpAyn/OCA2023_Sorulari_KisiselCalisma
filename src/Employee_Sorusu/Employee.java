@@ -1,4 +1,4 @@
-package Employee;
+package Employee_Sorusu;
 
 public class Employee {
     public int salary=0;
